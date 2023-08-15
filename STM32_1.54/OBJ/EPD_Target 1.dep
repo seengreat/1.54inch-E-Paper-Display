@@ -1,0 +1,179 @@
+Dependencies for Project 'EPD', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x63EDC15D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+I (stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (system_stm32f10x.h)(0x4D783CAA)
+I (stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\SYSTEM\delay\delay.h)(0x5EB4F2F7)
+I (..\SYSTEM\sys\sys.h)(0x5055B57C)
+I (..\HARDWARE\EPD\1in54_epd.h)(0x63ED81A6)
+I (..\HARDWARE\EPD\Ap_29demo.h)(0x63ED85A1)
+I (..\HARDWARE\GUI\epd_gui.h)(0x63F572D2)
+I (..\HARDWARE\GUI\../Fonts/fonts.h)(0x63E9E687)
+I (..\SYSTEM\usart\usart.h)(0x63E9DCC9)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+F (.\stm32f10x_it.c)(0x4EBEACB0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_it.o --omf_browse ..\obj\stm32f10x_it.crf --depend ..\obj\stm32f10x_it.d)
+I (stm32f10x_it.h)(0x4D99A426)
+I (stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (system_stm32f10x.h)(0x4D783CAA)
+I (stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (.\system_stm32f10x.c)(0x4D99A426)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\system_stm32f10x.o --omf_browse ..\obj\system_stm32f10x.crf --depend ..\obj\system_stm32f10x.d)
+I (stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (system_stm32f10x.h)(0x4D783CAA)
+I (stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\SYSTEM\delay\delay.c)(0x63E9DC48)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\delay.o --omf_browse ..\obj\delay.crf --depend ..\obj\delay.d)
+I (..\SYSTEM\delay\delay.h)(0x5EB4F2F7)
+I (..\SYSTEM\sys\sys.h)(0x5055B57C)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\SYSTEM\sys\sys.c)(0x63E9DC3B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\sys.o --omf_browse ..\obj\sys.crf --depend ..\obj\sys.d)
+I (..\SYSTEM\sys\sys.h)(0x5055B57C)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\SYSTEM\usart\usart.c)(0x63E9DC6E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\usart.o --omf_browse ..\obj\usart.crf --depend ..\obj\usart.d)
+I (..\SYSTEM\sys\sys.h)(0x5055B57C)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\SYSTEM\usart\usart.h)(0x63E9DCC9)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+F (..\CORE\core_cm3.c)(0x4C0C587E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\core_cm3.o --omf_browse ..\obj\core_cm3.crf --depend ..\obj\core_cm3.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+F (..\CORE\startup_stm32f10x_md.s)(0x4D783CD2)(--cpu Cortex-M3 -g --apcs=interwork -I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\startup_stm32f10x_md.lst --xref -o ..\obj\startup_stm32f10x_md.o --depend ..\obj\startup_stm32f10x_md.d)
+F (..\STM32F10x_FWLib\src\misc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\misc.o --omf_browse ..\obj\misc.crf --depend ..\obj\misc.d)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+F (..\STM32F10x_FWLib\src\stm32f10x_gpio.c)(0x4D79EEC6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_gpio.o --omf_browse ..\obj\stm32f10x_gpio.crf --depend ..\obj\stm32f10x_gpio.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\STM32F10x_FWLib\src\stm32f10x_rcc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_rcc.o --omf_browse ..\obj\stm32f10x_rcc.crf --depend ..\obj\stm32f10x_rcc.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\STM32F10x_FWLib\src\stm32f10x_usart.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_usart.o --omf_browse ..\obj\stm32f10x_usart.crf --depend ..\obj\stm32f10x_usart.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\HARDWARE\EPD\1in54_epd.c)(0x64101CDB)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\1in54_epd.o --omf_browse ..\obj\1in54_epd.crf --depend ..\obj\1in54_epd.d)
+I (..\HARDWARE\EPD\1in54_epd.h)(0x63ED81A6)
+I (..\SYSTEM\sys\sys.h)(0x5055B57C)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\HARDWARE\GUI\epd_gui.c)(0x6409A8AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\epd_gui.o --omf_browse ..\obj\epd_gui.crf --depend ..\obj\epd_gui.d)
+I (..\HARDWARE\GUI\epd_gui.h)(0x63F572D2)
+I (..\HARDWARE\GUI\../Fonts/fonts.h)(0x63E9E687)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (D:\Keil_v5\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (..\HARDWARE\EPD\1in54_epd.h)(0x63ED81A6)
+I (..\SYSTEM\sys\sys.h)(0x5055B57C)
+I (..\USER\stm32f10x.h)(0x63E9A838)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+F (..\HARDWARE\Fonts\font8.c)(0x63E9EAAA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\font8.o --omf_browse ..\obj\font8.crf --depend ..\obj\font8.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x63E9E687)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+F (..\HARDWARE\Fonts\font12.c)(0x63E9EAAA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\font12.o --omf_browse ..\obj\font12.crf --depend ..\obj\font12.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x63E9E687)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+F (..\HARDWARE\Fonts\font16.c)(0x63E9EAAA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\font16.o --omf_browse ..\obj\font16.crf --depend ..\obj\font16.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x63E9E687)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+F (..\HARDWARE\Fonts\font20.c)(0x63E9EAAA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\font20.o --omf_browse ..\obj\font20.crf --depend ..\obj\font20.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x63E9E687)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+F (..\HARDWARE\Fonts\font24.c)(0x63E9EAAA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\EPD -I ..\HARDWARE\Fonts -I ..\HARDWARE\GUI-I"E:\lyh\products\E-Paper\1.54inch E-Paper Display\1.54inch E-Paper Display\demo codes\大连佳显demo codes\STM32_1.54\USER\RTE"-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\font24.o --omf_browse ..\obj\font24.crf --depend ..\obj\font24.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x63E9E687)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
